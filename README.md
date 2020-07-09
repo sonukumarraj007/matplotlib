@@ -12,8 +12,6 @@ Some of the major Pros of Matplotlib are:
 * High-quality output in many formats
 * Very customizable in general
 
-Matplotlib allows you to create reproducible figures programmatically. Let's learn how to use it! Before continuing this lecture, I encourage you just to explore the official Matplotlib web page: http://matplotlib.org/
-
 ## Installation 
 
 You'll need to install matplotlib first with either:
